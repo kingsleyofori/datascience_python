@@ -1,2 +1,3 @@
-# datascience_python
-A repo that contains all data analysis project files coded in python
+# Data Sciene with Python
+This repository contains all the projects which have been coded with python.
+
