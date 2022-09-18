@@ -24,4 +24,6 @@ Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/oforiking
 
 | Project Name | Area | Description | Libraries Used |
 |---|---|---|---|
-| 🏘️ [House Rent Prediction](https://github.com/kingsleyofori/datascience_python/tree/main/House%20Rent%20Prediction) |   Data Wrangling, Machine Learning & EDA | Exploratory Analysis of more than 4700+ rental housing dataset in India to better understand the housing situation in the country, coupled with the usuage of just Linear Regression in building and testing a model | _pandas, matplotlib, seaborn, sklearn_ |  
+| 🏘️ [House Rent Prediction](https://github.com/kingsleyofori/datascience_python/tree/master/House%20Rent%20Prediction) |   Data Wrangling, Machine Learning & EDA | Exploratory Analysis of more than 4700+ rental housing dataset in India to better understand the housing situation in the country, coupled with the usuage of just Linear Regression in building and testing a model | _pandas, matplotlib, seaborn, sklearn_ | 
+| 👨‍👩‍👦‍👦 [World Population Analysis](https://github.com/kingsleyofori/datascience_python/tree/master/World%20Population%20Analysis) |   Data Wrangling & EDA | Exploratory Analysis of the World Population from 1970 to 2022. | _pandas, matplotlib, seaborn_ | 
+
